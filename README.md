@@ -2,7 +2,7 @@
 
 This is a simplistic vocabulary builder game I had built for my personal use. All you need is a Python 3 interpreter, which comes preinstalled with most Linux distros, but is also available otherwise in the form of IDEs, commercial softwares or online compilers.
 
-There is a dictionary preloaded with 25 words (I'll add more soon). You can add to this dictionary or completely delete it and run the add_words program to add your own words with their definitons and examples.
+There is a dictionary preloaded with 25 words (I'll add more soon). You can add to this dictionary (or completely delete it) and run the add_words program to add your own words with their definitons and examples.
 
 The game is multiple choice based, quite intuitive and simplistic but powerful in solidifying your just learnt words.
 
