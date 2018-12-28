@@ -22,7 +22,7 @@ def main():
 		if word == 'q':
 			break
 
-		if word in _dict.keys():
+		if word in _dict.keys() or word in new_dict:
 			print("Word already exists in your dictionary. Enter s to skip this word, any other key to continue :", end=' ')
 			cmnd = input()
 			if cmnd == 's':
